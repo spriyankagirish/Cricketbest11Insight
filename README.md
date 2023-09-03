@@ -1,5 +1,10 @@
 # Cricket best 11 Insight
-
+# Problem statement 
+ Cricket T20 World Cup 2022 to create the best possible cricket team from Earth to compete against aliens
+1.team should be able to score at least  180 on an average.
+2.they should be defend 150 runs on an average 
+# Solution 
+We used a web scraping tool called Bright Data to collect information from a website. Then, we cleaned and organized this data using a tool called Pandas. Finally, we created visual dashboards using Power BI.
 
 
 
