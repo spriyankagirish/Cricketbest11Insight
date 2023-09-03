@@ -1,4 +1,9 @@
 # Cricket best 11 Insight
+This is a project I replicated from Codebasics PowerBi Youtube playlist. You can find the link of the playlist below.
+
+Codebasics [Youtube Playlist](https://www.youtube.com/watch?v=4QkYy1wANXA&list=PLeo1K3hjS3usb3av_7Eok21V20XlpJc_X)
+
+Link to [Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNGQ3YzI2NDQtYmMzOC00NzRiLWEyNzEtMGM0MWI4OWU0YTgyIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 # Problem statement 
  Cricket T20 World Cup 2022 to create the best possible cricket team from Earth to compete against aliens
 1.team should be able to score at least  180 on an average.
