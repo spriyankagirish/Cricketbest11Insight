@@ -1,4 +1,44 @@
-# Cricketbest11Insight
+# Cricket best 11 Insight
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 By utilizing web scraping, Python, pandas, and Power BI, you have created a comprehensive dashboard that displays information and insights on these various player categories based on their performance in T20 cricket matches.
 
 New All Rounders / Lower Middle Order: In the context of T20 cricket, "New All Rounders" refer to players who have recently emerged as versatile contributors to the team, excelling in both batting and bowling skills. "Lower Middle Order" refers to the batting positions in the lineup, typically between numbers 5 to 7, where these all-rounders often play their role.
